@@ -7,6 +7,10 @@ import Dishes from './sections/Dishes'
 import Features from './sections/Features'
 import BookingProcess from './sections/BookingProcess'
 import Timing from './sections/Timing'
+import TestimonialSection from './sections/TestimonialSection'
+import FAQs from './sections/FAQs'
+import Cta from './sections/Cta'
+import Footer from './sections/Footer'
 
 
 const App = () => {
@@ -20,6 +24,10 @@ const App = () => {
       <Features /> 
       <BookingProcess /> 
       <Timing />
+      <TestimonialSection />
+      <FAQs />
+      <Cta />
+      <Footer />
       
 
     </>
